@@ -1,4 +1,4 @@
-! [Imge text](https://github.com/GeekeyesTool/ship/blob/master/imgs/logo-with-text.png)
+! [Image text](https://github.com/GeekeyesTool/ship/blob/master/imgs/logo-with-text.png)
 
 # 说明和安装
 
