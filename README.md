@@ -4,6 +4,16 @@
 
 一款简单的IP工具,很好用所以汉化了帮助文档！
 
+极客之眼汉化组
+
+
+
+
+
+
+
+
+
 打开终端输入
 
 git clone https://github.com/GeekeyesTool/ship.git
